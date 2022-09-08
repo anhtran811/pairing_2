@@ -1,5 +1,5 @@
-friends = ["Corey", "Aly", "Taylor", "Amy", "Kaylynn"]
+arrays = ["Joe", "Sarah", "Sam", "Mark", "Jessica"]
 
-puts friends[2]
-puts friends[4]
-puts friends[0]
+puts arrays[2]
+puts arrays[4]
+puts arrays[0]
